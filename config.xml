@@ -26,5 +26,9 @@
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
 	
-
+	<feature name="debug-server" required="true">↵
+  <param name="domain" value="http://14.161.67.127:8080"/>
+  <param name="key" value="91152000"/>
+</feature>
+	
 </widget>
